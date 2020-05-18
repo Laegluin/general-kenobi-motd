@@ -1,0 +1,4 @@
+name: general-kenobi-motd
+version: 1.0.0
+author: Robin Mirow <robinmirow@live.com>
+main: de.robinmirow.general_kenobi_motd.Plugin
